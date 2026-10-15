@@ -45,11 +45,11 @@ pip install selenium webdriver-manager openpyxl
 🚀 Запуск
 1) Открой yandex_maps_parser_1.py
 2)Измени настройки в блоке НАСТРОЙКИ:
-
+```bash
 SEARCH_QUERY = "Кожевенные и обувные производства"  # тип предприятий
 CITY = "Брянская область"                            # регион
 MAX_COMPANIES = 50                                   # сколько собрать
-
+```
 ```bash
 python yandex_maps_parser_1.py
 ```
@@ -57,7 +57,6 @@ python yandex_maps_parser_1.py
 Excel-файл с данными о компаниях. Пример имени файла:
 Брянская_область_Кожевенные_и_обувные_производства_2026-06-29_01-46.xlsx
 
-```markdowm```
 ## 👤 Автор
 
 **Алина Даскэлу**
