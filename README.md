@@ -40,6 +40,7 @@
 
 ```bash
 pip install selenium webdriver-manager openpyxl
+```
 
 🚀 Запуск
 1) Открой yandex_maps_parser_1.py
@@ -51,12 +52,12 @@ MAX_COMPANIES = 50                                   # сколько собра
 
 ```bash
 python yandex_maps_parser_1.py
-
+```
 📊 Результат
 Excel-файл с данными о компаниях. Пример имени файла:
 Брянская_область_Кожевенные_и_обувные_производства_2026-06-29_01-46.xlsx
 
-```markdowm
+```markdowm```
 ## 👤 Автор
 
 **Алина Даскэлу**
